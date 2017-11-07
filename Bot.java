@@ -35,4 +35,4 @@ public class Bot {
 
 }
 
-/* Content is what is typed in, and send is what will be printed back to Discord.
+/* Content is what is typed in, and send is what will be printed back to Discord. */
